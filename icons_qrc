@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/iconeg.png</file>
+    <file>icons/entrada.webp</file>
+    <file>icons/iconeP.ico</file>
+    <file>icons/icone.ico</file>
+    <file>icons/logo1.jpg</file>
+    <file>icons/logoo.jpg</file>
+    <file>icons/ceu.png</file>
+    <file>icons/logo.png</file>
+    <file>icons/whats-app.ico</file>
+    <file>icons/logoQ.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/quadrangular.png</file>
+    <file>icons/email.ico</file>
+  </qresource>
+</RCC>
